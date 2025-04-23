@@ -14,7 +14,7 @@ https://data.wprdc.org/dataset/city-steps
 - This csv. file contains data steps/staircase locations in the city of Pittsburgh
   
 https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
-- This is a csv. file containing data location information for all supermarkets and convenience stores in Allegheny County, found using fee and permit data.
+- This is a csv. file containing data location information for all farmers markets in Allegheny County, including their dates, times, and locations.
 
 A one sentence overview of your repository, meant for someone who is not familiar with the project:
-Our repository is meant to find the neighborhood in Pittsburgh where someone is most likely to slip and fall.
+Our repository uses large data sets with data collected from Pittsburgh and Allegheny county to calculate by points which neighborhood is the most slippy in all of Pittsburgh.
